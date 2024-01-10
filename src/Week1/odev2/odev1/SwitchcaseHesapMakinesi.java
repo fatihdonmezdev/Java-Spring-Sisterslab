@@ -18,6 +18,7 @@ public class SwitchcaseHesapMakinesi {
             case 4 -> (double) sayi1 / sayi2;
             default -> 0;
         };
+
         System.out.println("Sonucunuz:" + sonuc);
     }
 }
